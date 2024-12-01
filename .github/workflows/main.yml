@@ -6,7 +6,6 @@ on:
     workflow_dispatch:
     branches:
         - bach
-        - master
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
