@@ -163,14 +163,11 @@ CCTV-17,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 CCTV-17,http://222.129.139.91:8888/udp/239.3.1.151:8144
 CCTV-17,http://111.199.234.10:18888/udp/239.3.1.151:8144
 CCTV-17,http://223.12.13.231:8082/udp/239.1.1.23:8023
-CETV1,https://api.livednow.org/migu/923287154?sign=gAAAAABnJcJqVnSXrUUkkYtDWAxHBieXZon2_B2kDSLm9uRif8tufnQMZcjl_RWKY3uwdHLw3clP4ObeP_RJCfjzNqvhDl56kIzLwahI8Rpl8YL2mC2bIKCEwo1CTMP3N7towvh9GjPz2p03gh4qPAFaBTwBczKVxvPMZJuY38uaXlaYqc1ZCAxb6IXrCuhMgtIk47Cy_Xr3f2yZPPNUxvfT_w7Apd4-wA%3D%3D
 CETV1,http://120.76.248.139/live/bfgd/4200000135.m3u8
 CETV1,http://43.138.11.122/cq/yh.php?id=G_CETV-1-HQ
 CETV2,http://43.138.11.122/cq/yh.php?id=G_CETV-2
-CETV2,https://api.livednow.org/migu/923287211?sign=gAAAAABnJcJqlMwKhypib47dsLMmTDrhIquQSbEM7k3NFiho8sMsjCHT4g572J4Z--cW7zs2z_6Lx0QQN3EtPgKjUeRYzAw_Pefu6uNdTfTWIxiPQBUlDBQAopWhjF5YyomATi-_zP6RZfvDmQL9fGjx83S2vkZBq3CHDShPVmtCSDb_q7lsjHNypuh-YPlAWJsoIfnocfSN3TiN1au-DXXraOO_mvUgDg%3D%3D
 CETV2,http://120.76.248.139/live/bfgd/4200000492.m3u8
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV4,https://api.livednow.org/migu/923287339?sign=gAAAAABnJcJqCVYw9IPx1b6k3F9j_qfxbMCLc7TORXvKiIop_NRc772AulEv8NPpujB0-VnMnhCKtowzqffwqNlNsPZ2NU3FZvye8jB2rjfY5NZegCwzp1GcKgtzhLE4eoO8Mi90IRTg0D8c9ca9KuZg91XnwvBGPb7qr1eiRVTnR5MdNMhWyiI1K_qp3klG-1aJvztKqB-8rlOLOAm6bWHZQuhHJ1B7YQ%3D%3D
 CETV4,http://43.138.11.122/cq/yh.php?id=G_CETV-4
 CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://183.94.146.109:2222/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -217,10 +214,6 @@ CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&play
 CHC高清电影,http://ha.xushining.com:50000/udp/225.1.1.214:5002
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-邵氏影院,http://159.75.85.63:35455/douyu/4246519
-动作影院,http://159.75.85.63:35455/douyu/122402
-喜剧影院,http://159.75.85.63:35455/douyu/323876
-漫威影院,http://159.75.85.63:35455/douyu/6140589
 淘电影,http://111.196.191.248:5555/rtp/239.3.1.250:8001
 淘电影,http://222.129.139.91:8888/rtp/239.3.1.250:8001
 淘电影,http://221.221.162.225:8888/rtp/239.3.1.250:8001
@@ -244,7 +237,7 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 东森电影,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie
-东森电影,http://iptv12k.com:35461/live/test167/12345/1254.m3u8
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 超级电影,http://112.102.217.173:9003//hls/85/index.m3u8
 
 📡中国卫视频道,#genre#
@@ -365,9 +358,9 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 广西卫视,http://60.7.56.33:4000/rtp/239.253.92.76:8043
 广西卫视,http://115.60.241.249:2000/rtp/225.1.4.31:1060
 广西卫视,http://coolcat.synology.me:4022/rtp/239.3.1.39:8300
-广西卫视,http://219.159.194.143:8181/tsfile/live/0113_1.m3u8
 广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
 广西卫视,http://116.9.204.242:9901/tsfile/live/0113_1.m3u8?key=txiptv
+广西卫视,http://111.199.234.10:18888/udp/239.3.1.39:8300
 贵州卫视,http://220.249.114.102:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://42.48.50.232:9002/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -497,9 +490,9 @@ CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
 陕西卫视,http://kxrj.site:1333/86/mg.php?id=sxws
 陕西卫视,http://182.92.109.190:1668/tianyi/tianyi.php?id=sxws
 陕西卫视,http://123.118.159.0:8686/udp/239.3.1.41:8140
-陕西卫视,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
 陕西卫视,http://59.48.75.130:3052/tsfile/live/0135_1.m3u8
 陕西卫视,http://223.166.234.114:7777/tsfile/live/0136_1.m3u8
+陕西卫视,http://43.138.11.122/cq/yh.php?id=G_SHANXI-HQ
 四川卫视,http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://42.48.50.232:9002/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://61.136.172.236:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
