@@ -1,13 +1,13 @@
 name: 'Update schedule'
 
 on:
-  schedule:
-    - cron: '0 0 * * *'
-    - cron: '0 8 * * *'
+  push:
+    branches: [ "bach" ]
+  pull_request:
+    branches: [ "bach" ]
   workflow_dispatch:
-    branches:
-      - bach
-      - master
+  schedule:
+      - cron: "30 1,9 * * *"
 jobs:
   push:
     runs-on: ${{ matrix.operating-system }}
